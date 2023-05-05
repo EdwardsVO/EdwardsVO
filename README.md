@@ -1,5 +1,16 @@
-### GM Chads 😎
-Blockchain Developer focused on software solutions and mass Web3 adoption. Lover of challenges, always looking to push myself to new heights with complex tasks that test my limits. Learning something new everyday. Interested on Web3 security, EVM and Low level Ethereum features.
+### Welcome Chads 😎
+Edward - Blockchain Developer focused on software solutions and mass Web3 adoption. Lover of challenges, always looking to push myself to new heights with complex tasks that test my limits. Interested on Web3 security, EVM and low-level Ethereum features. Learning something new every day, expanding my limits, thinking outside the box, and finding ways to optimize and obtain better solutions for current systems.
+### Some Skills 🥷🏻 
+1. Blockchain 
+  - Solidity 
+  - Rust
+2. Frontend
+  - NextJS 
+4. Backend
+  - Node 
+  - MongoDB
+  - PostgreSQL
+### Follow me !
 
 <!--
 **EdwardsVO/EdwardsVO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
