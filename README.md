@@ -1,15 +1,5 @@
 ## Welcome Chads 😎
 Edward - Blockchain Developer focused on software solutions and mass Web3 adoption. Lover of challenges, always looking to push myself to new heights with complex tasks that test my limits. Interested on Web3 security, EVM and low-level Ethereum features. Learning something new every day, expanding my limits, thinking outside the box, and finding ways to optimize and obtain better solutions for current systems.
-## Skills 🥷🏻 
-### Blockchain 
-  - Solidity 
-  - Rust
-### Frontend
-  - NextJS 
-### Backend
-  - Node 
-  - MongoDB
-  - PostgreSQL
 ### Follow me !
 
 <!--
