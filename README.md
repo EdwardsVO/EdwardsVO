@@ -4,7 +4,7 @@
 - Interested in Web3 security, EVM, and low-level Ethereum features.
 - Learning something new every day, expanding my limits, thinking outside the box,
 
-### Finding ways to optimize and obtain better solutions for current systems. 🚀
+### Always finding solutions 🚀 
 ### Follow me!
 
 <!--
